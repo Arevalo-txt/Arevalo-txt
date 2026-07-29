@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=200&section=header&text=CHINCHA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Arevalo-txt%20%2F%2F%20ESTUDANTE%20DE%20CI%C3%8ANCIA%20DA%20COMPUTA%C3%87%C3%83O&descAlignY=55&descColor=ffffff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=50&background=00000000&lines=SISTEMA%3A+ATIVO+%E2%80%94+ACESSO+CONCEDIDO;4%C2%BA+ANO+DE+CI%C3%8ANCIA+DA+COMPUTA%C3%87%C3%83O;EXPLORANDO+PENTEST+%2F+HACKING+%C3%89TICO" alt="Typing SVG" />
+<img src="https://readme-svg-typing-generator.vercel.app/api?lines=SISTEMA%3A+ATIVO+%E2%80%94+ACESSO+CONCEDIDO&animation=glitch&color=ffffff&background=00000000&size=26&font=monospace&width=650&height=60&center=true&vCenter=true&repeat=true" alt="glitch text" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=40&background=00000000&lines=4%C2%BA+ANO+DE+CI%C3%8ANCIA+DA+COMPUTA%C3%87%C3%83O;EXPLORANDO+PENTEST+%2F+HACKING+%C3%89TICO" alt="Typing SVG" />
 
 </div>
 
@@ -29,7 +31,21 @@
 
 ---
 
-### 03_ESTATÍSTICAS
+### 03_ARCADE
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arevalo-txt/Arevalo-txt/output/commit-invaders-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arevalo-txt/Arevalo-txt/output/commit-invaders.svg">
+  <img alt="Commit Invaders" src="https://raw.githubusercontent.com/Arevalo-txt/Arevalo-txt/output/commit-invaders.svg" width="100%">
+</picture>
+
+</div>
+
+---
+
+### 04_ESTATÍSTICAS
 
 <div align="center">
 
@@ -42,7 +58,7 @@
 
 ---
 
-### 04_PROJETOS
+### 05_PROJETOS
 
 | PROJETO | DESCRIÇÃO | STACK |
 |---|---|---|
@@ -54,7 +70,7 @@
 
 ---
 
-### 05_CONTATO
+### 06_CONTATO
 
 <div align="center">
 
