@@ -75,8 +75,8 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GITHUB-Arevalo--txt-000000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Arevalo-txt)
-[![Email](https://img.shields.io/badge/EMAIL-seu@email.com-000000?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:seu@email.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-seu--usuario-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/seu-usuario)
+[![Email](https://img.shields.io/badge/EMAIL-henricoarevalo%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:henricoarevalo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-henrico--ar%C3%A9val0-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/henrico-ar%C3%A9val0/)
 
 </div>
 
